@@ -9,7 +9,7 @@
   </a>
   </a>
   <a>
-    <img src="https://cdn.pixabay.com/photo/2022/07/14/17/31/desktop-7321676_1280.png" height="100" alt="Blog" hspace=10>
+    <img src="https://cdn.pixabay.com/photo/2017/05/03/22/14/laptop-2282328_1280.png" height="100" alt="Blog" hspace=10>
   </a>
 
 <h3 align="center">Post Feed</h3>
