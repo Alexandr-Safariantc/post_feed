@@ -32,12 +32,13 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#Run-as-python-script">Run as python script</a></li>
-        <li><a href="#Secrets">Secrets</a></li>
+        <li><a href="#run-as-python-script">Run as python script</a></li>
+        <li><a href="#secrets">Secrets</a></li>
       </ul>
     </li>
     <li><a href="#explanation">Explanations</a></li>
     <li><a href="#restrictions">Restrictions</a></li>
+    <li><a href="#planned-updates">Planned updates</a></li>
     <li><a href="#contacts">Contact</a></li>
   </ol>
 </details>
