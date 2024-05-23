@@ -113,6 +113,11 @@
     (venv) $ uvicorn main:app --reload
     ```
 
+8. Get API documentation
+    ```sh
+    http://127.0.0.1:8000/docs
+    ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Secrets
